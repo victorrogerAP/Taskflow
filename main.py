@@ -17,7 +17,7 @@ def exibir_menu():
         "2 - Adicionar tarefa\n"\
         "3 - Editar tarefa\n"\
         "4 - Excluir tarefa\n"\
-        "5 - buscar tarefa\n"\
+        "5 - Buscar tarefa\n"\
         "6 - Sair \n"\
         "7 - Filtrar status\n"\
         "\n=========================\n")
