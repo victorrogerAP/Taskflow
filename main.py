@@ -11,7 +11,7 @@ from database import inicializar_banco
 
 def exibir_menu():
     menu = print("=========================\n"\
-        "\n         TASKFLOW       \n"\
+        "\n         TASKFLOW - GERENCIADOR DE TAREFAS     \n"\
         "\n=========================\n"\
         "1 - Listar tarefas\n"\
         "2 - Adicionar tarefa\n"\
